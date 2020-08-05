@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-reactivestreams:2.2.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/926bf93f2fcfee1fd9010ed0f5ae5322/lifecycle-reactivestreams-2.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/08534580c09479bef05bd10dbc8e3291/lifecycle-reactivestreams-2.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/061566c2b5d6489aa867e588133758dc/lifecycle-reactivestreams-2.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/061566c2b5d6489aa867e588133758dc/lifecycle-reactivestreams-2.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/061566c2b5d6489aa867e588133758dc/lifecycle-reactivestreams-2.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-reactivestreams/2.2.0/31df3402f1e5e287cb5b0e7d9568f100871588f3/lifecycle-reactivestreams-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

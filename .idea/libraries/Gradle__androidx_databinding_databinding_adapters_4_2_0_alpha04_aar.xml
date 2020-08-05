@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.databinding:databinding-adapters:4.2.0-alpha04@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/66be578b3b6995facfb1006d0f551d2e/databinding-adapters-4.2.0-alpha04/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/66be578b3b6995facfb1006d0f551d2e/databinding-adapters-4.2.0-alpha04/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/66be578b3b6995facfb1006d0f551d2e/databinding-adapters-4.2.0-alpha04/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-adapters/4.2.0-alpha04/42ea35b54c70af937df04bfb08a2810ec196153b/databinding-adapters-4.2.0-alpha04-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.ext:truth:1.2.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/4256c929ac3215cbc1faaf116b6d06f0/jetified-truth-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/d6f5720eb0022b55126f5f33f95fc711/jetified-truth-1.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/9f89e72c3c25dff4a9a194def059a381/jetified-truth-1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/9f89e72c3c25dff4a9a194def059a381/jetified-truth-1.2.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/9f89e72c3c25dff4a9a194def059a381/jetified-truth-1.2.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/modules-2/files-2.1/androidx.test.ext/truth/1.2.0/3777d2c5b4178151349ab2e25b2d6a825deddb3c/truth-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/modules-2/files-2.1/androidx.test.ext/truth/1.2.0/b35783021d44a4e7aa1dc0419eb0981f8d9f5428/truth-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

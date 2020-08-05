@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.espresso.idling:idling-concurrent:3.2.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/63aaf03cfa35925251f849b40037aa2a/idling-concurrent-3.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/320db9c874a4a1cc98cbe4f9963e20f7/idling-concurrent-3.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/70e8d0495c84f5a969051d498efd97b2/idling-concurrent-3.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/70e8d0495c84f5a969051d498efd97b2/idling-concurrent-3.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/70e8d0495c84f5a969051d498efd97b2/idling-concurrent-3.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/modules-2/files-2.1/androidx.test.espresso.idling/idling-concurrent/3.2.0/d549ba1d53f67f3c1aa6ba05e96602ea9490dc71/idling-concurrent-3.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/modules-2/files-2.1/androidx.test.espresso.idling/idling-concurrent/3.2.0/8c767eb9e20ac35089ab8880e759135cefea592c/idling-concurrent-3.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

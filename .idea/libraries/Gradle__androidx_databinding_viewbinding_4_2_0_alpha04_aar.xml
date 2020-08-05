@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.databinding:viewbinding:4.2.0-alpha04@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/e5f40d3b8961b5bade58b2bfb4a35a16/jetified-viewbinding-4.2.0-alpha04/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/7282e2c197937b7e9b9a24838fa4c908/jetified-viewbinding-4.2.0-alpha04/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/b1455e04940b30cc8ccc5640026e570f/jetified-viewbinding-4.2.0-alpha04/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/b1455e04940b30cc8ccc5640026e570f/jetified-viewbinding-4.2.0-alpha04/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/b1455e04940b30cc8ccc5640026e570f/jetified-viewbinding-4.2.0-alpha04/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/modules-2/files-2.1/androidx.databinding/viewbinding/4.2.0-alpha04/28fc8f19d99bde2574d756154d15b509f9843e5e/viewbinding-4.2.0-alpha04-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

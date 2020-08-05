@@ -1,0 +1,23 @@
+plugins {
+    id 'java-library'
+    id 'kotlin'
+}
+apply from: "../ktlint.gradle"
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_8
+    targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+dependencies {
+    implementation project(':domain')
+
+    implementation Libraries.javaxAnnotation
+    implementation Libraries.javaxInject
+    implementation Libraries.rxKotlin
+    implementation Libraries.kotlin
+
+    testImplementation TestLibraries.jUnit
+    testImplementation TestLibraries.mockitoKotlin
+    testImplementation TestLibraries.assertJ
+}

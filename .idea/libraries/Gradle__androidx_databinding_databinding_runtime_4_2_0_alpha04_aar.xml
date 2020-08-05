@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.databinding:databinding-runtime:4.2.0-alpha04@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/8b149896af0b7c02197d2b009ee611c5/databinding-runtime-4.2.0-alpha04/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/8b149896af0b7c02197d2b009ee611c5/databinding-runtime-4.2.0-alpha04/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/8b149896af0b7c02197d2b009ee611c5/databinding-runtime-4.2.0-alpha04/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-runtime/4.2.0-alpha04/9ad7fe10928f9ed21503cd9577f86677180a3321/databinding-runtime-4.2.0-alpha04-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

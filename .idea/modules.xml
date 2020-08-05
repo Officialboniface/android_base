@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Agromall.iml" filepath="$PROJECT_DIR$/.idea/modules/Agromall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Agromall.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/Agromall.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cache/Agromall.cache.iml" filepath="$PROJECT_DIR$/.idea/modules/cache/Agromall.cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/Agromall.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/Agromall.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/Agromall.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/Agromall.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/presentation/Agromall.presentation.iml" filepath="$PROJECT_DIR$/.idea/modules/presentation/Agromall.presentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/remote/Agromall.remote.iml" filepath="$PROJECT_DIR$/.idea/modules/remote/Agromall.remote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tellerium/Agromall.tellerium.iml" filepath="$PROJECT_DIR$/.idea/modules/tellerium/Agromall.tellerium.iml" />
+    </modules>
+  </component>
+</project>
