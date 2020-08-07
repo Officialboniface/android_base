@@ -8,29 +8,35 @@ import com.agromall.tellerium.BuildConfig
 import dagger.Binds
 import dagger.Module
 import dagger.Provides
+import dagger.hilt.InstallIn
+import dagger.hilt.android.components.ActivityComponent
+import dagger.hilt.android.components.ApplicationComponent
+import javax.inject.Singleton
 
 /**
  * Module that provides all dependencies from the remote layer.
  */
 @Module
+@InstallIn(ApplicationComponent::class)
 abstract  class RemoteModule {
     @Binds
     abstract fun bindUserRemote(userRemoteImpl: UserRemoteImplementation): UserRemote
+}
 
-    @Module
-    companion object {
-        /**
-         * This companion object annotated as a module is necessary in order to provide dependencies
-         * statically in case the wrapping module is an abstract class (to use binding)
-         */
+@InstallIn(ApplicationComponent::class)
+@Module
+object RemoteModuleCompanion{
+    /**
+     * This companion object annotated as a module is necessary in order to provide dependencies
+     * statically in case the wrapping module is an abstract class (to use binding)
+     */
 
-        /**
-         * set user token to the api service
-         */
-        @Provides
-        @JvmStatic
-        fun provideRemoteApiService(): APIService {
-            return APIServiceFactory.makeRemoteService(BuildConfig.DEBUG)
-        }
+    /**
+     * set user token to the api service
+     */
+    @Provides
+    @Singleton
+    fun provideRemoteApiService(): APIService {
+        return APIServiceFactory.makeRemoteService(BuildConfig.DEBUG)
     }
 }

@@ -3,9 +3,13 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/b5b0091051c35d4865f7463d343ab1ee/espresso-contrib-3.2.0/res" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/2d3c6b2627cf607cc964f94844b64a2f/espresso-contrib-3.2.0/res" />
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/a673ced95352ac461e55ba9d69eee4ea/espresso-contrib-3.2.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/a673ced95352ac461e55ba9d69eee4ea/espresso-contrib-3.2.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/a673ced95352ac461e55ba9d69eee4ea/espresso-contrib-3.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/a0fa64a71221e13eb64f6a8afd0a7873/espresso-contrib-3.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/956e832eaefae01078289637665e8db2/espresso-contrib-3.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/66078e51ff481b0287f94b2867eef6e7/espresso-contrib-3.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/be4c88998da6d77720d62fcc2f393e4e/espresso-contrib-3.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/be4c88998da6d77720d62fcc2f393e4e/espresso-contrib-3.2.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/be4c88998da6d77720d62fcc2f393e4e/espresso-contrib-3.2.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-contrib/3.2.0/cad542b0a5f53af21305cab4b1e89d7fe42166c3/espresso-contrib-3.2.0-javadoc.jar!/" />

@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.viewpager2:viewpager2:1.0.0-beta03@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/91a7deaadd169dddfbc8ea1978357334/jetified-viewpager2-1.0.0-beta03/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/b2ba291b8d6415a4bfa24821c5437734/jetified-viewpager2-1.0.0-beta03/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/91a7deaadd169dddfbc8ea1978357334/jetified-viewpager2-1.0.0-beta03/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/91a7deaadd169dddfbc8ea1978357334/jetified-viewpager2-1.0.0-beta03/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/91a7deaadd169dddfbc8ea1978357334/jetified-viewpager2-1.0.0-beta03/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/b2ba291b8d6415a4bfa24821c5437734/jetified-viewpager2-1.0.0-beta03/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/b2ba291b8d6415a4bfa24821c5437734/jetified-viewpager2-1.0.0-beta03/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/b2ba291b8d6415a4bfa24821c5437734/jetified-viewpager2-1.0.0-beta03/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

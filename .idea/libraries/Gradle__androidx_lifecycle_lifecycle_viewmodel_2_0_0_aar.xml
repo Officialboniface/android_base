@@ -2,9 +2,13 @@
   <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.0.0@aar">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/c7d263d03c1dbe54fbf82a28592dcdd3/lifecycle-viewmodel-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/2214f7ca2011624986130c60ec3cb0e9/lifecycle-viewmodel-2.0.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/2214f7ca2011624986130c60ec3cb0e9/lifecycle-viewmodel-2.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/2214f7ca2011624986130c60ec3cb0e9/lifecycle-viewmodel-2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/78c89bc29e8f0b6e9a9e8a4ee0e97904/lifecycle-viewmodel-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/7d6daf55ce3086c389e79d914556e7fe/lifecycle-viewmodel-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/7905a83ebaf1b442a48029a4134d4025/lifecycle-viewmodel-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/c45eba741510843b72c1211195e5ade2/lifecycle-viewmodel-2.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/c45eba741510843b72c1211195e5ade2/lifecycle-viewmodel-2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/c45eba741510843b72c1211195e5ade2/lifecycle-viewmodel-2.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

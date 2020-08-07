@@ -1,18 +1,20 @@
 package com.agromall.tellerium
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.activity.viewModels
+import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import androidx.lifecycle.ViewModelProviders
+import com.agromall.domain.interactor.user.users.LoginUser
+import com.agromall.presentation.state.Resource
+import com.agromall.presentation.state.ResourceState
 import com.agromall.presentation.viewmodel.UsersViewModel
-import dagger.android.support.DaggerAppCompatActivity
+import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 
-class MainActivity : DaggerAppCompatActivity() {
+@AndroidEntryPoint
+class MainActivity : BaseActivity() {
 
-    @Inject
-    lateinit var viewModelFactory: ViewModelProvider.Factory
-    lateinit var usersViewModel: UsersViewModel
+    val usersViewModel: UsersViewModel by viewModels()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -24,6 +26,28 @@ class MainActivity : DaggerAppCompatActivity() {
      * provide viewmodel instance for the class
      */
     private fun initViewModel() {
-        usersViewModel = ViewModelProvider(this, viewModelFactory).get(UsersViewModel::class.java)
+        usersViewModel.loginUserLiveData.observe(this, Observer {
+            handleLoginUser(it)
+        })
+        usersViewModel.loginUser(LoginUser.Params("", ""))
     }
+
+    /**
+     * Handles the state of the login user
+     */
+    private fun handleLoginUser(resource: Resource<Unit>) {
+        when (resource.status) {
+            ResourceState.LOADING -> {
+
+            }
+            ResourceState.SUCCESS -> {
+
+            }
+            ResourceState.ERROR -> {
+
+            }
+        }
+    }
+
 }
+

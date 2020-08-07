@@ -3,9 +3,13 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/5639a5ddb931c652eedec63ad80bb5f0/jetified-lifecycle-process-2.2.0/res" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/d6b9d8c95f113ee834b1e2a64a015774/jetified-lifecycle-process-2.2.0/res" />
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/d862ea735ac6e9617c44bf813f3ac0a9/jetified-lifecycle-process-2.2.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/d862ea735ac6e9617c44bf813f3ac0a9/jetified-lifecycle-process-2.2.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/d862ea735ac6e9617c44bf813f3ac0a9/jetified-lifecycle-process-2.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/944e524bca744f1f6d7c63e035b1698b/jetified-lifecycle-process-2.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/99edd6be4c0c99a6a9375f0c13a20372/jetified-lifecycle-process-2.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/b74d8c30b2b919000d883e1e3b7875a3/jetified-lifecycle-process-2.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/ddd3df20b41709e542edd2c3c7358bbc/jetified-lifecycle-process-2.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/ddd3df20b41709e542edd2c3c7358bbc/jetified-lifecycle-process-2.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/ddd3df20b41709e542edd2c3c7358bbc/jetified-lifecycle-process-2.2.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

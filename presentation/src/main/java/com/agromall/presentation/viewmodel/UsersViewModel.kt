@@ -1,10 +1,11 @@
 package com.agromall.presentation.viewmodel
 
 
+import androidx.hilt.lifecycle.ViewModelInject
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.agromall.domain.interactor.user.LoginUser
+import com.agromall.domain.interactor.user.users.LoginUser
 import com.agromall.presentation.state.Resource
 import com.agromall.presentation.state.ResourceState
 import io.reactivex.observers.DisposableCompletableObserver
@@ -13,9 +14,10 @@ import javax.inject.Inject
 /**
  * [UsersViewModel] handle all interactions with the UI layer
  */
-open class UsersViewModel @Inject constructor(
+open class UsersViewModel @ViewModelInject constructor(
     private val loginUser: LoginUser
 ) : ViewModel() {
+
     //mutable livedata should be private to a single class
     private val _loginUserLiveData: MutableLiveData<Resource<Unit>> = MutableLiveData()
 

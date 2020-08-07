@@ -1,6 +1,6 @@
 package com.agromall.data.repository.user
 
-import com.agromall.domain.model.user.User
+import com.agromall.domain.model.user.Farmer
 import io.reactivex.Completable
 import io.reactivex.Single
 
@@ -12,17 +12,17 @@ interface UsersCache {
     /**
      * Savings a user
      */
-    fun saveUser(param: User): Completable
+    fun saveUser(param: Farmer): Completable
 
     /**
      * Retrieve a logged in user from the cache.
      */
-    fun getLoggedInUser(): Single<User>
+    fun getLoggedInUser(): Single<Farmer>
 
     /**
      * Retrieve a user by param from the cache.
      */
-    fun getUserByParam(param: String): Single<User>
+    fun getUserByParam(param: String): Single<Farmer>
 
     /**
      * Save a given User by param to the cache.
@@ -54,5 +54,5 @@ interface UsersCache {
     /**
      * update user
      */
-    fun updateUser(param: User): Completable
+    fun updateUser(param: Farmer): Completable
 }

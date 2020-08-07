@@ -16,7 +16,7 @@ import javax.inject.Inject
  */
 @Database(
     entities = arrayOf(CachedUserEntity::class),
-    exportSchema = true,
+    exportSchema = false,
     version = 1
 )
 abstract class AgromallDatabase @Inject constructor() : RoomDatabase() {

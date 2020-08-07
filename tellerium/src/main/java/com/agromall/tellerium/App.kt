@@ -1,18 +1,11 @@
 package com.agromall.tellerium
 
-import com.agromall.tellerium.injection.DaggerApplicationComponent
-import dagger.android.AndroidInjector
-import dagger.android.support.DaggerApplication
+import androidx.multidex.MultiDexApplication
+import dagger.hilt.android.HiltAndroidApp
 import timber.log.Timber
 
-class App: DaggerApplication() {
-    override fun applicationInjector(): AndroidInjector<out DaggerApplication> {
-        return DaggerApplicationComponent
-            .builder()
-            .create(this)
-            .build()
-    }
-
+@HiltAndroidApp
+class App: MultiDexApplication() {
     override fun onCreate() {
         super.onCreate()
         setupTimber()

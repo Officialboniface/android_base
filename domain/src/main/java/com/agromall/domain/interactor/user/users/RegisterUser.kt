@@ -1,4 +1,4 @@
-package com.agromall.domain.interactor.user
+package com.agromall.domain.interactor.user.users
 
 import com.agromall.domain.executor.PostExecutionThread
 import com.agromall.domain.executor.ThreadExecutor
@@ -21,6 +21,7 @@ class RegisterUser @Inject constructor(
     }
     data class Params(
         val email: String,
-        val password: String
+        val password: String,
+        val phone: String
     )
 }

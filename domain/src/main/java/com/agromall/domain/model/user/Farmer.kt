@@ -1,6 +1,6 @@
 package com.agromall.domain.model.user
 
-data class User (
+data class Farmer (
     val name: String,
     val email: String,
     val id: Int

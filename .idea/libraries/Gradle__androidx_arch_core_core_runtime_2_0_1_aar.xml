@@ -3,8 +3,12 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/b580f1323d3f8a92c1c40821342ea49a/core-runtime-2.0.1/res" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/65d09c64eefdfc07934d10048434da15/core-runtime-2.0.1/res" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/65d09c64eefdfc07934d10048434da15/core-runtime-2.0.1/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/65d09c64eefdfc07934d10048434da15/core-runtime-2.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/3355b1a95e89726237db59b0de59ced4/core-runtime-2.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/557628639b13612dac6ef2d418af8c2c/core-runtime-2.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/60e809fa24b8d42663c26d4f74a79b8d/core-runtime-2.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/9fe29358a66305b5c461e52385a59179/core-runtime-2.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/9fe29358a66305b5c461e52385a59179/core-runtime-2.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/9fe29358a66305b5c461e52385a59179/core-runtime-2.0.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

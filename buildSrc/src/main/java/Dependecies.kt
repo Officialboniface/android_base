@@ -4,11 +4,14 @@ import Versions.appCompatVersion
 import Versions.archVersion
 import Versions.assertJVersion
 import Versions.constraintLayoutVersion
+import Versions.coreKtxVersion
 import Versions.daggerVersion
 import Versions.espressoVersion
 import Versions.glideVersion
 import Versions.gsonVersion
 import Versions.hdodenhofVersion
+import Versions.hiltLifeCycleVersion
+import Versions.hiltVersion
 import Versions.jUnitVersion
 import Versions.javaxAnnotationVersion
 import Versions.javaxInjectVersion
@@ -32,6 +35,7 @@ import Versions.rxKotlinVersion
 import Versions.rxandroidVersion
 import Versions.timberVersion
 import Versions.truthVersion
+import Versions.viewModelKtxVersion
 
 object Config {
     val compileSdkVersion = 30
@@ -45,6 +49,8 @@ object Config {
 object Versions {
     val kotlinVersion = "1.3.61"
     val javaxAnnotationVersion = "1.0"
+    val coreKtxVersion = "1.3.1"
+    val viewModelKtxVersion = "2.2.0"
     val javaxInjectVersion = "1"
     val rxKotlinVersion = "2.4.0"
     val jUnitVersion = "4.12"
@@ -55,6 +61,8 @@ object Versions {
     val roomVersion = "2.2.5"
     val roboelectricVersion = "4.3"
     val daggerVersion = "2.16"
+    val hiltVersion = "2.28-alpha"
+    val hiltLifeCycleVersion = "1.0.0-alpha02"
     val gsonVersion = "2.8.2"
     val okHttpVersion = "4.2.0"
     val retrofitVersion = "2.4.0"
@@ -104,6 +112,11 @@ object Libraries {
     val rxKotlin = "io.reactivex.rxjava2:rxkotlin:$rxKotlinVersion"
     val kotlin = "org.jetbrains.kotlin:kotlin-stdlib:$kotlinVersion"
 
+    //ktx
+    val coreKtx = "androidx.core:core-ktx:$coreKtxVersion"
+    val viewModelKtx = "androidx.lifecycle:lifecycle-viewmodel-ktx:$viewModelKtxVersion"
+    val fragmentKtx = "androidx.fragment:fragment-ktx:1.2.5"
+    val lifecycleKtx = "androidx.lifecycle:lifecycle-runtime-ktx:2.2.0"
     //room
     val roomRunTime = "androidx.room:room-runtime:$roomVersion"
     val roomCompiler = "androidx.room:room-compiler:$roomVersion"
@@ -136,6 +149,10 @@ object Libraries {
     val daggerSupport = "com.google.dagger:dagger-android-support:$daggerVersion"
     val daggerCompiler = "com.google.dagger:dagger-compiler:$daggerVersion"
     val daggerProcessor = "com.google.dagger:dagger-android-processor:$daggerVersion"
+    val daggerHilt = "com.google.dagger:hilt-android:$hiltVersion"
+    val daggerHiltProcessor = "com.google.dagger:hilt-android-compiler:$hiltVersion"
+    val hiltLifecycle =  "androidx.hilt:hilt-lifecycle-viewmodel:$hiltLifeCycleVersion"
+    val hiltLifecycleProcessor = "androidx.hilt:hilt-compiler:$hiltLifeCycleVersion"
 
     //logging
     val timber = "com.jakewharton.timber:timber:$timberVersion"

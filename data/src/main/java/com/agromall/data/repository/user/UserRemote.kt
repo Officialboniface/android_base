@@ -1,6 +1,6 @@
 package com.agromall.data.repository.user
 
-import com.agromall.domain.interactor.user.LoginUser
+import com.agromall.domain.interactor.user.users.LoginUser
 import io.reactivex.Completable
 
 interface UserRemote {

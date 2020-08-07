@@ -3,9 +3,13 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/86c43b7540e07bb5945fe479c11af230/lifecycle-livedata-2.2.0/res" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/7b9d96b58a3f2e6f4ff2f20f4f2257d1/lifecycle-livedata-2.2.0/res" />
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/a83da54a33cbe15b4176f2e7710505e9/lifecycle-livedata-2.2.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/a83da54a33cbe15b4176f2e7710505e9/lifecycle-livedata-2.2.0/res" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/a83da54a33cbe15b4176f2e7710505e9/lifecycle-livedata-2.2.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/f182afa33962fa70a4eec48ed33a3120/lifecycle-livedata-2.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/7dfde9b01a987d2243cb400baaeb19f1/lifecycle-livedata-2.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/102ec970603988f583165d99b7e5226f/lifecycle-livedata-2.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/45ce1e3115ef4fb57e614f146043ae6d/lifecycle-livedata-2.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/45ce1e3115ef4fb57e614f146043ae6d/lifecycle-livedata-2.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/45ce1e3115ef4fb57e614f146043ae6d/lifecycle-livedata-2.2.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

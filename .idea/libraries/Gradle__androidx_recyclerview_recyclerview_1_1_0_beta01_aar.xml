@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.recyclerview:recyclerview:1.1.0-beta01@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/0ed5c50aa96e102734f1f1962519ede9/recyclerview-1.1.0-beta01/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/453d03088b4660f00549ca51083f4b13/recyclerview-1.1.0-beta01/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/0ed5c50aa96e102734f1f1962519ede9/recyclerview-1.1.0-beta01/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/0ed5c50aa96e102734f1f1962519ede9/recyclerview-1.1.0-beta01/res" />
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/0ed5c50aa96e102734f1f1962519ede9/recyclerview-1.1.0-beta01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/453d03088b4660f00549ca51083f4b13/recyclerview-1.1.0-beta01/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/453d03088b4660f00549ca51083f4b13/recyclerview-1.1.0-beta01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/453d03088b4660f00549ca51083f4b13/recyclerview-1.1.0-beta01/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

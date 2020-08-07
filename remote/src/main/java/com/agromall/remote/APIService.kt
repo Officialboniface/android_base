@@ -1,7 +1,6 @@
 package com.agromall.remote
 
-import com.agromall.domain.interactor.user.LoginUser
-import com.agromall.domain.model.user.User
+import com.agromall.domain.interactor.user.users.LoginUser
 import com.agromall.remote.model.UserModel
 import io.reactivex.Flowable
 import io.reactivex.Single
@@ -10,7 +9,7 @@ import retrofit2.http.GET
 import retrofit2.http.POST
 
 /**
- * Defines the abstract methods used for interacting with the Bufferoo API
+ * Defines the abstract methods used for interacting with the Agromall API
  */
 interface APIService {
 

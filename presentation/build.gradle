@@ -77,6 +77,11 @@ dependencies {
     implementation Libraries.lifecycleRxStreams
     kapt Libraries.lifecycleCompiler
 
+    implementation Libraries.daggerHilt
+    kapt Libraries.daggerHiltProcessor
+    implementation Libraries.hiltLifecycle
+    kapt Libraries.hiltLifecycleProcessor
+
     testImplementation TestLibraries.jUnit
     testImplementation TestLibraries.mockitoKotlin
     testImplementation TestLibraries.assertJ

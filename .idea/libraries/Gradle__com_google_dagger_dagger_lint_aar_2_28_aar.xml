@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.dagger:dagger-lint-aar:2.28@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/0c83f5a5cf2dfee1d2c64a8a33702afd/jetified-dagger-lint-aar-2.28/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/628959d4ca5b466c70b6b9e09e337380/jetified-dagger-lint-aar-2.28/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/8a228fa0242053f0473217e637e8cb3d/jetified-dagger-lint-aar-2.28/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/009e7e92d76f528aa144cbf67acd29a4/jetified-dagger-lint-aar-2.28/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/009e7e92d76f528aa144cbf67acd29a4/jetified-dagger-lint-aar-2.28/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/009e7e92d76f528aa144cbf67acd29a4/jetified-dagger-lint-aar-2.28/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

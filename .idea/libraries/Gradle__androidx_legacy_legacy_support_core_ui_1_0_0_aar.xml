@@ -3,9 +3,13 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/dcec397453cea0c59e20f06a01571d57/legacy-support-core-ui-1.0.0/res" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/fa947d878dd52bca552ac9b5a6ba61fa/legacy-support-core-ui-1.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/7a27cc466c4c67d97a658c70e15e6747/legacy-support-core-ui-1.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/7a27cc466c4c67d97a658c70e15e6747/legacy-support-core-ui-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/7a27cc466c4c67d97a658c70e15e6747/legacy-support-core-ui-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/dfaf370b7e4fc5ee0c33429100e23c7e/legacy-support-core-ui-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/3969ae88b5a262b1b5236ea7bc980820/legacy-support-core-ui-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/8d854f885795c1261de041ddf6371a51/legacy-support-core-ui-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/7464c951eb61d8accb41cbade0efa244/legacy-support-core-ui-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/7464c951eb61d8accb41cbade0efa244/legacy-support-core-ui-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/7464c951eb61d8accb41cbade0efa244/legacy-support-core-ui-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

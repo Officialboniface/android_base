@@ -1,4 +1,4 @@
-package com.agromall.domain.interactor.user
+package com.agromall.domain.interactor.user.users
 
 import com.agromall.domain.executor.PostExecutionThread
 import com.agromall.domain.executor.ThreadExecutor
@@ -16,9 +16,10 @@ class LoginUser @Inject constructor(
     postExecutionThread: PostExecutionThread
 ) : CompletableUseCase<LoginUser.Params>(threadExecutor, postExecutionThread) {
 
-    override fun buildUseCaseObservable(params: LoginUser.Params): Completable {
+    override fun buildUseCaseObservable(params: Params): Completable {
         return repository.loginUser(params)
     }
+
     data class Params(
         val email: String,
         val password: String

@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.media:media:1.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/7a1ec7fe0f6ec56113e113b95fb74ce0/media-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/e7cd6fe7f0ffd69a3d719202f77cd2a9/media-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/7a1ec7fe0f6ec56113e113b95fb74ce0/media-1.0.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/7a1ec7fe0f6ec56113e113b95fb74ce0/media-1.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/7a1ec7fe0f6ec56113e113b95fb74ce0/media-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/e7cd6fe7f0ffd69a3d719202f77cd2a9/media-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/e7cd6fe7f0ffd69a3d719202f77cd2a9/media-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/e7cd6fe7f0ffd69a3d719202f77cd2a9/media-1.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

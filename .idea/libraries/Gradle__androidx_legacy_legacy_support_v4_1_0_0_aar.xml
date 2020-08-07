@@ -3,9 +3,13 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/9225a65a99fc6f3ec250bf982dc4f4e5/legacy-support-v4-1.0.0/res" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/2b70e6c90c3bcb8f51430c21929d36c0/legacy-support-v4-1.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/fc956031fbe13b81fd6c4fa339c0b0ca/legacy-support-v4-1.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/fc956031fbe13b81fd6c4fa339c0b0ca/legacy-support-v4-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/fc956031fbe13b81fd6c4fa339c0b0ca/legacy-support-v4-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/9336b2d825048b5dfe3a1492b7d50fe2/legacy-support-v4-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/eda22bc27367e76d6318fe00f74d4ba7/legacy-support-v4-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/7c3633cb76d27f9d5071b35946699f8c/legacy-support-v4-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/fd169715e7ec2334bb29194a98c3fe1c/legacy-support-v4-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/fd169715e7ec2334bb29194a98c3fe1c/legacy-support-v4-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/fd169715e7ec2334bb29194a98c3fe1c/legacy-support-v4-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

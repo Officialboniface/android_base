@@ -3,9 +3,13 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/63aaf03cfa35925251f849b40037aa2a/idling-concurrent-3.2.0/res" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/320db9c874a4a1cc98cbe4f9963e20f7/idling-concurrent-3.2.0/res" />
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/70e8d0495c84f5a969051d498efd97b2/idling-concurrent-3.2.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/70e8d0495c84f5a969051d498efd97b2/idling-concurrent-3.2.0/res" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/70e8d0495c84f5a969051d498efd97b2/idling-concurrent-3.2.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/649bd14f39f92f78e18ec2b13389fa87/idling-concurrent-3.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/e9b9ed4aba601532740c4eedb9b57fac/idling-concurrent-3.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/acee51439212768221412d9d039390d2/idling-concurrent-3.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/6a3b7a348df60745df8d60d27ab1a1b9/idling-concurrent-3.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/6a3b7a348df60745df8d60d27ab1a1b9/idling-concurrent-3.2.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/6a3b7a348df60745df8d60d27ab1a1b9/idling-concurrent-3.2.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/modules-2/files-2.1/androidx.test.espresso.idling/idling-concurrent/3.2.0/d549ba1d53f67f3c1aa6ba05e96602ea9490dc71/idling-concurrent-3.2.0-javadoc.jar!/" />

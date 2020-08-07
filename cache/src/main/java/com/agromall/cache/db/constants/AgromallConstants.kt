@@ -12,4 +12,9 @@ object DBConstants {
 
         const val DELETE_ALL_USERS = "DELETE FROM" + " " + TABLE_NAME
     }
+
+    object Farm {
+        const val TABLE_NAME = "farms"
+    }
+
 }

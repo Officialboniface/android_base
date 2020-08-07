@@ -3,9 +3,13 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/19295df25c42172e11d91760e8a9325f/multidex-instrumentation-2.0.0/res" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/856f57d1dc8b8a035ec3c6b60eac2e87/multidex-instrumentation-2.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/58d3173b7332a2b490e76079bbfe0ae1/multidex-instrumentation-2.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/58d3173b7332a2b490e76079bbfe0ae1/multidex-instrumentation-2.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/58d3173b7332a2b490e76079bbfe0ae1/multidex-instrumentation-2.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/3f96391692fb59105ff75c2656e438b2/multidex-instrumentation-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/87111fb710e65b4ca1a5a67628dfb271/multidex-instrumentation-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/820d7f58dc81aee067bebcccd88b7d99/multidex-instrumentation-2.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/38c50ebc6fdc7227c276c0b1bb44521b/multidex-instrumentation-2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/38c50ebc6fdc7227c276c0b1bb44521b/multidex-instrumentation-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/38c50ebc6fdc7227c276c0b1bb44521b/multidex-instrumentation-2.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

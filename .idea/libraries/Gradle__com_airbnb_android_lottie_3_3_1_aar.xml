@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.airbnb.android:lottie:3.3.1@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/3ed74f1a7f798c14eb85380bcf8d3867/jetified-lottie-3.3.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/f9eb7de79e206ed6590651d4511ebb14/jetified-lottie-3.3.1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/3ed74f1a7f798c14eb85380bcf8d3867/jetified-lottie-3.3.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/3ed74f1a7f798c14eb85380bcf8d3867/jetified-lottie-3.3.1/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/3ed74f1a7f798c14eb85380bcf8d3867/jetified-lottie-3.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/f9eb7de79e206ed6590651d4511ebb14/jetified-lottie-3.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/f9eb7de79e206ed6590651d4511ebb14/jetified-lottie-3.3.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/f9eb7de79e206ed6590651d4511ebb14/jetified-lottie-3.3.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/modules-2/files-2.1/com.airbnb.android/lottie/3.3.1/8d260cbad94c337a53e7dbaf4c0b95ee4cdf05b4/lottie-3.3.1-javadoc.jar!/" />

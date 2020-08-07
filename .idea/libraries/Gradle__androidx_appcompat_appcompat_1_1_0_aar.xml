@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.appcompat:appcompat:1.1.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/a02b03c8df96394bd207ede3681201b4/appcompat-1.1.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/c1d626d1e080b845f43b7d2cc990ef9e/appcompat-1.1.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/a02b03c8df96394bd207ede3681201b4/appcompat-1.1.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/a02b03c8df96394bd207ede3681201b4/appcompat-1.1.0/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/a02b03c8df96394bd207ede3681201b4/appcompat-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/c1d626d1e080b845f43b7d2cc990ef9e/appcompat-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/c1d626d1e080b845f43b7d2cc990ef9e/appcompat-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/c1d626d1e080b845f43b7d2cc990ef9e/appcompat-1.1.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

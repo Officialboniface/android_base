@@ -2,7 +2,7 @@ package com.agromall.cache.implementation
 
 import com.agromall.cache.mapper.UserEntityMapper
 import com.agromall.data.repository.user.UsersCache
-import com.agromall.domain.model.user.User
+import com.agromall.domain.model.user.Farmer
 import io.altalabs.cache.db.AgromallDatabase
 import io.reactivex.Completable
 import io.reactivex.Single
@@ -18,17 +18,17 @@ class UserCacheImplementation  @Inject constructor(
     private val cacheUserMapper: UserEntityMapper
 ) : UsersCache {
 
-    override fun saveUser(param: User): Completable {
+    override fun saveUser(param: Farmer): Completable {
         return Completable.fromAction {
             db.cachedUserDao().save(cacheUserMapper.mapToCached(param))
         }
     }
 
-    override fun getLoggedInUser(): Single<User> {
+    override fun getLoggedInUser(): Single<Farmer> {
         TODO("Not yet implemented")
     }
 
-    override fun getUserByParam(param: String): Single<User> {
+    override fun getUserByParam(param: String): Single<Farmer> {
         TODO("Not yet implemented")
     }
 
@@ -52,7 +52,7 @@ class UserCacheImplementation  @Inject constructor(
         TODO("Not yet implemented")
     }
 
-    override fun updateUser(param: User): Completable {
+    override fun updateUser(param: Farmer): Completable {
         TODO("Not yet implemented")
     }
 }

@@ -1,14 +1,18 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.room:room-runtime:2.2.5@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/15bd6f69a9262133327e05ebd43b9b36/room-runtime-2.2.5/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/ff8291cb4693c5c28c5e358dc64af6f3/room-runtime-2.2.5/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/b043b3edfd417f8e8a1c4cdde7640c99/room-runtime-2.2.5/res" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/05d8906cda6ab489b5e27ad71fa95643/room-runtime-2.2.5/res" />
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/15bd6f69a9262133327e05ebd43b9b36/room-runtime-2.2.5/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/15bd6f69a9262133327e05ebd43b9b36/room-runtime-2.2.5/res" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/15bd6f69a9262133327e05ebd43b9b36/room-runtime-2.2.5/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/85b4c7be04048261a0f7bcbdbf9e2d01/room-runtime-2.2.5/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/e3b2d33d9773a3630b8e074aa17ec0dc/room-runtime-2.2.5/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/b15bf940249a08edaf72aa2877e30348/room-runtime-2.2.5/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/ff8291cb4693c5c28c5e358dc64af6f3/room-runtime-2.2.5/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/ff8291cb4693c5c28c5e358dc64af6f3/room-runtime-2.2.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/ff8291cb4693c5c28c5e358dc64af6f3/room-runtime-2.2.5/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

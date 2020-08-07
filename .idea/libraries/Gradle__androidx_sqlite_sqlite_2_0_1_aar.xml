@@ -3,9 +3,13 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/7efc99f22678aaaacefcacf2f910dc23/sqlite-2.0.1/res" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/a51adea61cb719e2ad74acfb78cf64d3/sqlite-2.0.1/res" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/fd2904ead01e9ccb62d9251d040d4126/sqlite-2.0.1/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/fd2904ead01e9ccb62d9251d040d4126/sqlite-2.0.1/res" />
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/fd2904ead01e9ccb62d9251d040d4126/sqlite-2.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/7b3b7183f81dd19ee806992961af6d91/sqlite-2.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/421027d7248c2ee3b4026a4cdb854ce0/sqlite-2.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/2205db98983bfeb24309313089ab8ded/sqlite-2.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/9c4c286b6d0bb4060a10d70b4494bc9d/sqlite-2.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/9c4c286b6d0bb4060a10d70b4494bc9d/sqlite-2.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/9c4c286b6d0bb4060a10d70b4494bc9d/sqlite-2.0.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

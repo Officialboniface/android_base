@@ -1,8 +1,7 @@
 package com.agromall.remote.implementation.user
 
 import com.agromall.data.repository.user.UserRemote
-import com.agromall.domain.interactor.user.LoginUser
-import com.agromall.domain.model.user.User
+import com.agromall.domain.interactor.user.users.LoginUser
 import com.agromall.remote.APIService
 import com.agromall.remote.mapper.UserEntityMapper
 import io.reactivex.Completable

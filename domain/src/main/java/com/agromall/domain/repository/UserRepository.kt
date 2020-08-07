@@ -1,7 +1,9 @@
 package com.agromall.domain.repository
 
-import com.agromall.domain.interactor.user.LoginUser
+import com.agromall.domain.interactor.user.farms.GetFarms
+import com.agromall.domain.interactor.user.users.LoginUser
 import io.reactivex.Completable
+import io.reactivex.Single
 
 /**
  * Interface defining methods for how the data layer can pass data to and from the Domain layer.

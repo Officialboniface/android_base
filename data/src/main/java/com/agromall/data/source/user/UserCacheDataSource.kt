@@ -1,9 +1,9 @@
-package com.agromall.data.source
+package com.agromall.data.source.user
 
 import com.agromall.data.repository.user.UserDataStore
 import com.agromall.data.repository.user.UsersCache
-import com.agromall.domain.interactor.user.LoginUser
-import com.agromall.domain.model.user.User
+import com.agromall.domain.interactor.user.users.LoginUser
+import com.agromall.domain.model.user.Farmer
 import io.reactivex.Completable
 import javax.inject.Inject
 
@@ -14,10 +14,10 @@ import javax.inject.Inject
 class UserCacheDataSource @Inject constructor(
     private val userCache: UsersCache): UserDataStore {
     override fun loginUser(param: LoginUser.Params): Completable {
-        TODO("Not yet implemented")
+        throw UnsupportedOperationException("Operation not supported in this layer")
     }
 
-    override fun saveUser(param: User): Completable {
-        TODO("Not yet implemented")
+    override fun saveUser(param: Farmer): Completable {
+        return userCache.saveUser(param)
     }
 }

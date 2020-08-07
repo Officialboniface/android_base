@@ -3,9 +3,13 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/bd45b30590c90f96f3de5e210ea9c41e/asynclayoutinflater-1.0.0/res" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/8c9a0f8fd84460ce144c1608e9da39db/asynclayoutinflater-1.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/eb75c647c1e2fed4ada5317df194d05e/asynclayoutinflater-1.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/eb75c647c1e2fed4ada5317df194d05e/asynclayoutinflater-1.0.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/eb75c647c1e2fed4ada5317df194d05e/asynclayoutinflater-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/d0a120809002d8e930400335cf3bf532/asynclayoutinflater-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/6c58d8fad2580f1791126b995a66cb05/asynclayoutinflater-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/bd20bc559320fc51cb112d371b7a85b4/asynclayoutinflater-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/66c40c476f4a4ac339ac2ff9bd6f1498/asynclayoutinflater-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/66c40c476f4a4ac339ac2ff9bd6f1498/asynclayoutinflater-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/66c40c476f4a4ac339ac2ff9bd6f1498/asynclayoutinflater-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

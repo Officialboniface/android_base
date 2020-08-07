@@ -1,14 +1,18 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/4060fdf950fc26518861d34ba9fd58ee/drawerlayout-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/403763076d8c0b8db36bc5d822d59788/drawerlayout-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/42ad71040af37eb1135f97d04bbe9d1b/drawerlayout-1.0.0/res" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/30732628a372df0c9d8ddadbb5ae6a66/drawerlayout-1.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/4060fdf950fc26518861d34ba9fd58ee/drawerlayout-1.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/4060fdf950fc26518861d34ba9fd58ee/drawerlayout-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/4060fdf950fc26518861d34ba9fd58ee/drawerlayout-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/27d9d2afe34d0c0c49ac7ffc59cdde2d/drawerlayout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/9dac2f6acd95fcaa4b3e531702c9e64b/drawerlayout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/2ae6b21039d5a14defa2777f4c164e5b/drawerlayout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/403763076d8c0b8db36bc5d822d59788/drawerlayout-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/403763076d8c0b8db36bc5d822d59788/drawerlayout-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/403763076d8c0b8db36bc5d822d59788/drawerlayout-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

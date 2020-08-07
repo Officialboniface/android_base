@@ -3,6 +3,7 @@ plugins {
     id 'kotlin-android'
     id 'kotlin-android-extensions'
     id 'kotlin-kapt'
+    id 'dagger.hilt.android.plugin'
 }
 apply from: "../ktlint.gradle"
 
@@ -14,7 +15,7 @@ android {
         applicationId "com.agromall.foodie"
         javaCompileOptions {
             annotationProcessorOptions {
-                arguments = [
+                arguments += [
                         "room.schemaLocation"  : "$projectDir/schemas".toString(),
                         "room.incremental"     : "true",
                         "room.expandProjection": "true"]
@@ -72,13 +73,16 @@ dependencies {
     implementation Libraries.kotlin
     implementation Libraries.javaxInject
     implementation Libraries.rxKotlin
+    implementation Libraries.coreKtx
+    implementation Libraries.viewModelKtx
+    implementation Libraries.fragmentKtx
+    implementation Libraries.lifecycleKtx
+
 
     implementation Libraries.timber
     implementation Libraries.rxandroid
     implementation Libraries.glide
     implementation Libraries.gson
-    implementation Libraries.dagger
-    implementation Libraries.daggerSupport
 
     implementation Libraries.lifecyleRuntime
     implementation Libraries.roomRunTime
@@ -86,8 +90,10 @@ dependencies {
     implementation Libraries.lifecycleRxStreams
 
     implementation 'com.android.support:multidex:1.0.3'
-    kapt Libraries.daggerCompiler
-    kapt Libraries.daggerProcessor
+    implementation Libraries.daggerHilt
+    kapt Libraries.daggerHiltProcessor
+    implementation Libraries.hiltLifecycle
+    kapt Libraries.hiltLifecycleProcessor
 
     implementation Libraries.lottie
 
@@ -113,7 +119,4 @@ dependencies {
     androidTestImplementation TestLibraries.espressoAccessiblity
     androidTestImplementation TestLibraries.espressoWeb
     androidTestImplementation TestLibraries.espresspIdlineConcurrent
-
-    kaptTest Libraries.daggerCompiler
-    kaptAndroidTest Libraries.daggerCompiler
 }

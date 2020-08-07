@@ -1,6 +1,8 @@
-package com.agromall.data.source
+package com.agromall.data.source.user
 
 import com.agromall.data.repository.user.UserDataStore
+import com.agromall.data.source.user.UserCacheDataSource
+import com.agromall.data.source.user.UserRemoteDataSource
 import javax.inject.Inject
 
 /**

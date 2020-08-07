@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit
  */
 object APIServiceFactory {
 
-    const val BASE_URL = ""
+    const val BASE_URL = "https://theagromall.com"
 
     /**
      * Safe method for providing API service instance between debug an release
