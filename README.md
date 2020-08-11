@@ -28,7 +28,7 @@ We decide to adopted ```Clean Architecture``` for our development because of it 
 
 ## Git Workflow
 
-Our gitflow runs in a similar manner to that described in this Atlassian doc. Feature branches and PR's are made off and into the Deploy branch. We should embrace a naming convention that describes the feature or bug fix being implemented. So for features we could have the branch name as ```feature/user-login``` or ```f/user-login``` and ```bug/cors-issue``` or ```b/cors-issue``` for bug fixes. PR's are made for each task or feature implementation, this with the branch naming convention ensures that it would be easier to isolate issues introduced to develop branch or production and restore to working condition without affecting other features.
+Our gitflow runs in a similar manner to that described in this Atlassian doc. Feature branches and PR's are made off and into the Deploy branch. We should embrace a naming convention that describes the feature or bug fix being implemented. So for features we could have the branch name as ```feature_user-login``` or ```f_user-login``` and ```bug_cors-issue``` or ```b_cors-issue``` for bug fixes. PR's are made for each task or feature implementation, this with the branch naming convention ensures that it would be easier to isolate issues introduced to develop branch or production and restore to working condition without affecting other features.
 
 Once you have pushed to a feature branch, you are required to create Pull Request to the ```deploy``` branch which will be reviewed by other engineers on the team.
 
