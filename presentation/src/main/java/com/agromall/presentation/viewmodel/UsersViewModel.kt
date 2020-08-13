@@ -10,8 +10,9 @@ import com.agromall.domain.interactor.user.GetLoggedInUser
 import com.agromall.domain.interactor.user.LoginUser
 import com.agromall.domain.model.user.User
 import com.agromall.presentation.state.UIState
-import kotlinx.coroutines.flow.catch
+import com.agromall.presentation.util.handleError
 import kotlinx.coroutines.flow.collect
+import kotlinx.coroutines.flow.onEach
 import kotlinx.coroutines.launch
 
 /**
@@ -39,13 +40,13 @@ open class UsersViewModel @ViewModelInject constructor(
         _loginUserLiveData.postValue(UIState.Loading)
         viewModelScope.launch {
             loginUser.execute(param)
-                .catch {
-                    //TODO: Get a more declarative error message
-                    _loginUserLiveData.postValue(UIState.Failed("error"))
-                }
-                .collect {
-                    _loginUserLiveData.postValue(UIState.Success(it))
-                }
+                .onEach { data ->
+                    // success response
+                    _loginUserLiveData.postValue(UIState.Success(data))
+                }.handleError { error ->
+                    // error response
+                    _loginUserLiveData.postValue(UIState.Failed(error))
+                }.collect()
         }
     }
 
@@ -53,16 +54,15 @@ open class UsersViewModel @ViewModelInject constructor(
      * Get logged in user
      */
     fun getLoggedInUser() {
-        _getLoggedInLiveData.postValue(UIState.Loading)
         viewModelScope.launch {
             getLoggedInUser.execute()
-                .catch {
-                    //TODO: Get a more declarative error message
-                    _getLoggedInLiveData.postValue(UIState.Failed("error"))
-                }
-                .collect {
-                    _getLoggedInLiveData.postValue(UIState.Success(it))
-                }
+                .onEach { data ->
+                    // success response
+                    _getLoggedInLiveData.postValue(UIState.Success(data))
+                }.handleError { error ->
+                    // error response
+                    _getLoggedInLiveData.postValue(UIState.Failed(error))
+                }.collect()
         }
     }
 }
