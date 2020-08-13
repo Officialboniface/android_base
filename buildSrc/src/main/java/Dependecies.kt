@@ -64,11 +64,11 @@ object Versions {
     val hiltVersion = "2.28-alpha"
     val hiltLifeCycleVersion = "1.0.0-alpha02"
     val gsonVersion = "2.8.2"
-    val okHttpVersion = "4.2.0"
-    val retrofitVersion = "2.4.0"
-    val loggingInterceptorVersion = "3.10.0"
+    val okHttpVersion = "4.8.1"
+    val retrofitVersion = "2.8.1"
+    val loggingInterceptorVersion = "4.2.1"
     val okHttpProfilingVersion = "1.0.4"
-    val moshiVersion = "1.4.0"
+    val moshiVersion = "1.9.2"
     val glideVersion = "4.9.0"
     val timberVersion = "4.7.0"
     val rxandroidVersion = "2.1.1"
@@ -94,12 +94,10 @@ object Libraries {
     //android
     val recyclerView = "androidx.recyclerview:recyclerview:$recyclerViewVersion"
     val appCompat = "androidx.appcompat:appcompat:$appCompatVersion"
-    val kotlinExtensions = "androidx.core:core-ktx:$kotlinExtensionVersion"
     val constraintLayout = "androidx.constraintlayout:constraintlayout:$constraintLayoutVersion"
     val hdodenhof = "de.hdodenhof:circleimageview:$hdodenhofVersion"
     val androiXLegacy = "androidx.legacy:legacy-support-v4:$legacySupportVersion"
     val materialDesign = "com.google.android.material:material:$materialDesignVersion"
-    val androidXExtensions = "androidx.core:core-ktx:$ktxVersion"
     val glide = "com.github.bumptech.glide:glide:$glideVersion"
     val glideCompiler = "com.github.bumptech.glide:compiler:$glideVersion"
 
@@ -117,6 +115,9 @@ object Libraries {
     val viewModelKtx = "androidx.lifecycle:lifecycle-viewmodel-ktx:$viewModelKtxVersion"
     val fragmentKtx = "androidx.fragment:fragment-ktx:1.2.5"
     val lifecycleKtx = "androidx.lifecycle:lifecycle-runtime-ktx:2.2.0"
+    val liveDataKtx = "androidx.lifecycle:lifecycle-livedata-ktx:2.2.0"
+    val roomKtx = "androidx.room:room-ktx:2.2.5"
+
     //room
     val roomRunTime = "androidx.room:room-runtime:$roomVersion"
     val roomCompiler = "androidx.room:room-compiler:$roomVersion"
@@ -124,6 +125,10 @@ object Libraries {
     val roomRxJava = "androidx.room:room-rxjava2:$roomVersion"
     // optional - Guava support for Room, including Optional and ListenableFuture
     val roomGuava = "androidx.room:room-guava:$roomVersion"
+
+    //co-routine
+    val coroutineCore = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.5"
+    val coroutineAndroid = "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.3"
 
     //lifecycle libraries
     val lifecyleRuntime = "androidx.lifecycle:lifecycle-runtime:$lifecycleVersion"
@@ -133,6 +138,8 @@ object Libraries {
 
     //networking
     val moshi = "com.squareup.moshi:moshi:$moshiVersion"
+    val moshiCodegen = "com.squareup.moshi:moshi-kotlin-codegen:$moshiVersion"
+    val moshiKotlin = "com.squareup.moshi:moshi-kotlin:1.9.2"
     val gson = "com.google.code.gson:gson:$gsonVersion"
     val okHttp = "com.squareup.okhttp3:okhttp:$okHttpVersion"
 

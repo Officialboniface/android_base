@@ -3,13 +3,12 @@ package com.agromall.tellerium
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.lifecycle.Observer
-import androidx.lifecycle.ViewModelProvider
-import com.agromall.domain.interactor.user.users.LoginUser
-import com.agromall.presentation.state.Resource
-import com.agromall.presentation.state.ResourceState
+import com.agromall.domain.interactor.user.LoginUser
+import com.agromall.domain.model.user.User
+import com.agromall.presentation.state.UIState
 import com.agromall.presentation.viewmodel.UsersViewModel
+import com.agromall.tellerium.util.showSnackbar
 import dagger.hilt.android.AndroidEntryPoint
-import javax.inject.Inject
 
 @AndroidEntryPoint
 class MainActivity : BaseActivity() {
@@ -29,25 +28,45 @@ class MainActivity : BaseActivity() {
         usersViewModel.loginUserLiveData.observe(this, Observer {
             handleLoginUser(it)
         })
+        usersViewModel.getLoggedInUserLiveData.observe(this, Observer {
+            handleGetLoggedInUser(it)
+        })
         usersViewModel.loginUser(LoginUser.Params("", ""))
+//        usersViewModel.getLoggedInUser()
     }
 
     /**
      * Handles the state of the login user
      */
-    private fun handleLoginUser(resource: Resource<Unit>) {
-        when (resource.status) {
-            ResourceState.LOADING -> {
-
+    private fun handleLoginUser(uiState: UIState<User>) {
+        when (uiState) {
+            is UIState.Success -> {
+                showSnackbar(uiState.body.toString())
             }
-            ResourceState.SUCCESS -> {
-
+            is UIState.Failed -> {
+                showSnackbar(uiState.error.toString())
             }
-            ResourceState.ERROR -> {
+            is UIState.Loading -> {
 
             }
         }
     }
 
+    /**
+     * Handles the state of the get logged in user
+     */
+    private fun handleGetLoggedInUser(uiState: UIState<User>) {
+        when (uiState) {
+            is UIState.Success -> {
+                showSnackbar(uiState.body.toString())
+            }
+            is UIState.Failed -> {
+                showSnackbar(uiState.error.toString())
+            }
+            is UIState.Loading -> {
+
+            }
+        }
+    }
 }
 

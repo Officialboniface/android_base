@@ -1,9 +1,9 @@
 package com.agromall.tellerium
 
 import com.agromall.domain.executor.PostExecutionThread
-import io.reactivex.Scheduler
-import io.reactivex.android.schedulers.AndroidSchedulers
+import kotlinx.coroutines.Dispatchers
 import javax.inject.Inject
+import kotlin.coroutines.CoroutineContext
 
 /**
  * MainThread (UI Thread) implementation based on a [Scheduler]
@@ -11,6 +11,6 @@ import javax.inject.Inject
  */
 class UiThread @Inject internal constructor() : PostExecutionThread {
 
-    override val scheduler: Scheduler
-        get() = AndroidSchedulers.mainThread()
+    override val schedulerContext: CoroutineContext
+        get() = Dispatchers.IO
 }

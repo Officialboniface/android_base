@@ -76,6 +76,12 @@ dependencies {
     implementation Libraries.lifecycleExtensions
     implementation Libraries.lifecycleRxStreams
     kapt Libraries.lifecycleCompiler
+    implementation Libraries.coroutineCore
+    implementation Libraries.coroutineAndroid
+    implementation Libraries.lifecycleKtx
+    implementation Libraries.viewModelKtx
+    implementation Libraries.coreKtx
+    implementation Libraries.liveDataKtx
 
     implementation Libraries.daggerHilt
     kapt Libraries.daggerHiltProcessor

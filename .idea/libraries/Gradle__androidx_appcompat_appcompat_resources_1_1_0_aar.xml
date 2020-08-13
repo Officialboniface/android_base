@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.appcompat:appcompat-resources:1.1.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/e0d4dd8eb4bf3efb845b378e57c0536f/jetified-appcompat-resources-1.1.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/e0d4dd8eb4bf3efb845b378e57c0536f/jetified-appcompat-resources-1.1.0/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/e0d4dd8eb4bf3efb845b378e57c0536f/jetified-appcompat-resources-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/67faeb0019e3033ef4681788fb8ff12f/jetified-appcompat-resources-1.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/67faeb0019e3033ef4681788fb8ff12f/jetified-appcompat-resources-1.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/67faeb0019e3033ef4681788fb8ff12f/jetified-appcompat-resources-1.1.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

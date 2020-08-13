@@ -1,8 +1,7 @@
 package com.agromall.data.repository.user
 
-import com.agromall.domain.model.user.Farmer
-import io.reactivex.Completable
-import io.reactivex.Single
+import com.agromall.domain.model.user.User
+import kotlinx.coroutines.flow.Flow
 
 /**
  * Interface defining methods for the caching of [Farm]. This is to be implemented by the
@@ -12,47 +11,15 @@ interface UsersCache {
     /**
      * Savings a user
      */
-    fun saveUser(param: Farmer): Completable
+    suspend fun saveUser(param: User)
 
     /**
-     * Retrieve a logged in user from the cache.
+     * Get logged in user
      */
-    fun getLoggedInUser(): Single<Farmer>
+    fun getLoggedInUser(): Flow<User>
 
     /**
-     * Retrieve a user by param from the cache.
+     * Delete User
      */
-    fun getUserByParam(param: String): Single<Farmer>
-
-    /**
-     * Save a given User by param to the cache.
-     */
-    fun saveUserByParam(param: String): Completable
-
-    /**
-     * Check whether there is a logged in user stored in the cache.
-     *
-     * @return true if the logged in user  is cached, otherwise false
-     */
-    fun isUserLoggedIn(): Boolean
-
-    /**
-     * Set a state of the logged in user
-     */
-    fun setUserIsLoggedIn(loggedIn: Boolean)
-
-    /**
-     * Check if the user specified by param is cached
-     */
-    fun isUserByParamCached(param: String): Single<Boolean>
-
-    /**
-     * Clear all Users from the cache.
-     */
-    fun clearUser(): Completable
-
-    /**
-     * update user
-     */
-    fun updateUser(param: Farmer): Completable
+    suspend fun deleteUser(param: User)
 }

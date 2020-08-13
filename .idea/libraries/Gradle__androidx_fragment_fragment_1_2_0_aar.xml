@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.fragment:fragment:1.2.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/3f0b6cf01961e649f8aeb237ae55a656/fragment-1.2.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/c45e165ffadf40e840cd01e4621b84f7/fragment-1.2.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/3f0b6cf01961e649f8aeb237ae55a656/fragment-1.2.0/res" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/3f0b6cf01961e649f8aeb237ae55a656/fragment-1.2.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/3f0b6cf01961e649f8aeb237ae55a656/fragment-1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/c45e165ffadf40e840cd01e4621b84f7/fragment-1.2.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/c45e165ffadf40e840cd01e4621b84f7/fragment-1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/c45e165ffadf40e840cd01e4621b84f7/fragment-1.2.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

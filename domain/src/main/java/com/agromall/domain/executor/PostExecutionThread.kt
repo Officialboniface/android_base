@@ -1,6 +1,6 @@
 package com.agromall.domain.executor
 
-import io.reactivex.Scheduler
+import kotlin.coroutines.CoroutineContext
 
 /**
  * Thread abstraction created to change the execution context from any thread to any other thread.
@@ -8,5 +8,5 @@ import io.reactivex.Scheduler
  * implementation of this interface will change context and update the UI.
  */
 interface PostExecutionThread {
-    val scheduler: Scheduler
+    val schedulerContext: CoroutineContext
 }

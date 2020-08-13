@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.android.material:material:1.1.0-alpha10@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/6dea9328ef1917ef4a6b3e24bd5684f9/material-1.1.0-alpha10/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/175240f434e69a1f29e7697247430cce/material-1.1.0-alpha10/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/6dea9328ef1917ef4a6b3e24bd5684f9/material-1.1.0-alpha10/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/6dea9328ef1917ef4a6b3e24bd5684f9/material-1.1.0-alpha10/res" />
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/6dea9328ef1917ef4a6b3e24bd5684f9/material-1.1.0-alpha10/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/175240f434e69a1f29e7697247430cce/material-1.1.0-alpha10/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/175240f434e69a1f29e7697247430cce/material-1.1.0-alpha10/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/175240f434e69a1f29e7697247430cce/material-1.1.0-alpha10/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
