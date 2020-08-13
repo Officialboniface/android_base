@@ -32,7 +32,7 @@
         </compilerSettings>
         <compilerArguments>
           <option name="destination" value="$MODULE_DIR$/../../../cache/build/tmp/kotlin-classes/debug" />
-          <option name="classpath" value="$MODULE_DIR$/../../../cache/build/intermediates/compile_r_class_jar/debug/R.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/6ba402f1f4c4edfad523c7e25c631eae/jetified-kotlin-android-extensions-runtime-1.3.61.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/087b8e37bb05e43916da7e051ac31964/jetified-room-ktx-2.2.5-api.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/b9338d8256d21fa6c331f05dbf957498/jetified-kotlinx-coroutines-android-1.3.0.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/457dd108ac5ab5881687a4e938d30c1b/jetified-kotlinx-coroutines-core-1.3.0.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/0c9efea991991ad08afef421d9105e68/jetified-kotlin-stdlib-1.3.61.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/bf68dbb5861a8fb808a79666dd646581/jetified-kotlin-stdlib-common-1.3.61.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/9956adbed6be66bd3267296f14a1c9aa/jetified-annotations-13.0.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/edda0ccf934285df6973cd660a60a39e/jetified-jsr250-api-1.0.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/367d9e14cab2ef21ba6c95cebd4a57d0/jetified-javax.inject-1.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/4d484e5670847d03a867d5541370a2ff/jetified-rxkotlin-2.4.0.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/1f3b86d1174dc4de6b3b00c2373e1e3a/room-rxjava2-2.2.5-api.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/19f5b2e64ccc1f7a805e17dbcd61c4a6/jetified-rxjava-2.2.10.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/bd553e7a11ba091c9fdc8951ef56fd1d/jetified-reactive-streams-1.0.2.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/e5c61383d5fd336f5e90e98db3c6cb92/jetified-gson-2.8.2.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/693ce0c0eaa8b72956a2c32a9e611a66/room-runtime-2.2.5-api.jar:/Users/others/Downloads/tellerium/gradle/caches/modules-2/files-2.1/androidx.room/room-common/2.2.5/f5e3b73a0c2ab5e276e26868e4ce3542baede207/room-common-2.2.5.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/697ce133dfba46455ffac2e9a6fe7a5d/legacy-support-core-utils-1.0.0-api.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/15d37162e2056eacf0e2bc4d136f15dd/loader-1.0.0-api.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/00158d68c5427c6607beb5aec0736d04/core-1.0.0-api.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/8ede0992ed7069ada5815c14361a5aee/lifecycle-runtime-2.2.0-api.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/1940356181c87e3160d246b06059ba01/sqlite-framework-2.0.1-api.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/27b3bc6e3e653864dc37c09dd5ba2630/sqlite-2.0.1-api.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/d1bdfbb1324686315cdc96cc6b7c41af/lifecycle-livedata-2.0.0-api.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/2741a4a5b29757ea4a3cb42a87ebc2c0/lifecycle-livedata-core-2.0.0-api.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/67b490bd224307843ddc7a06c84b49d8/core-runtime-2.0.1-api.jar:/Users/others/Downloads/tellerium/gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar:/Users/others/Downloads/tellerium/gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/312a9f65a1c649a42291a41821a16ab6/documentfile-1.0.0-api.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/6778d4c54cfe9255bd83b8f2b1b50dc3/localbroadcastmanager-1.0.0-api.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/c00e8f507a1facd7715a24c92db0554c/print-1.0.0-api.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/4b757d2e22564fdc64d1ee3234430994/versionedparcelable-1.0.0-api.jar:/Users/others/Downloads/tellerium/gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.0.0/42858b26cafdaa69b6149f45dfc2894007bc2c7a/collection-1.0.0.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/4cad2a9981924f30db77966cb66aa7d2/lifecycle-viewmodel-2.0.0-api.jar:/Users/others/Downloads/tellerium/gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar:/Users/others/Downloads/agromall/data/build/.transforms/101b18b88d8319044267ab082f1bd1af/jetified-data.jar:/Users/others/Downloads/agromall/domain/build/.transforms/8e626f5f07299553c858caf001fd427c/jetified-domain.jar:/Users/others/Library/Android/sdk/platforms/android-30/android.jar:/Users/others/Library/Android/sdk/build-tools/30.0.1/core-lambda-stubs.jar" />
+          <option name="classpath" value="$MODULE_DIR$/../../../cache/build/intermediates/compile_r_class_jar/debug/R.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/31041c9eeea9f296b519b46ea9e666e1/jetified-kotlin-android-extensions-runtime-1.3.61.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/1028bf946cade95d7317a638569dc3a7/jetified-room-ktx-2.2.5-api.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/4d136e8e97c22395bfdeec6f33027818/jetified-kotlinx-coroutines-android-1.3.0.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/05db5af56dd2836a1cb3baeed559e340/jetified-kotlinx-coroutines-core-1.3.5.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/f00316ccf4a85ba6577624ef53416b59/jetified-kotlin-stdlib-1.3.70.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/b8bd82d39645b47e240804d2bd885d66/jetified-kotlin-stdlib-common-1.3.70.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/ca54cf2c4e177560ccb62a193b8f3c3f/jetified-annotations-13.0.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/34d0125292c35f14de71760cf6c14bb1/jetified-jsr250-api-1.0.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/5652670bd4768fb9a3905c75f64de35d/jetified-javax.inject-1.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/984df440e2b21a46fb6251f3cd62653f/jetified-gson-2.8.2.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/d39f902242ca172954352e215acca0b3/room-runtime-2.2.5-api.jar:/Users/others/Downloads/tellerium/gradle/caches/modules-2/files-2.1/androidx.room/room-common/2.2.5/f5e3b73a0c2ab5e276e26868e4ce3542baede207/room-common-2.2.5.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/8a65f0e9948208497ee686d4465886cc/lifecycle-runtime-2.2.0-api.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/b66a820e4352173990216dcc69657730/sqlite-framework-2.0.1-api.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/784ac175b4491fe25162e646d1d7095e/sqlite-2.0.1-api.jar:/Users/others/Downloads/tellerium/gradle/caches/transforms-2/files-2.1/96f00ae9d9de39d86530ea8e913d2e3c/core-runtime-2.0.1-api.jar:/Users/others/Downloads/tellerium/gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar:/Users/others/Downloads/tellerium/gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar:/Users/others/Downloads/tellerium/gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar:/Users/others/Downloads/agromall/data/build/.transforms/22cf8289f3205adcdd9144c0f0538eb3/jetified-data.jar:/Users/others/Downloads/agromall/domain/build/.transforms/fef14b7c903272b8cc0fe148e5b26655/jetified-domain.jar:/Users/others/Library/Android/sdk/platforms/android-30/android.jar:/Users/others/Library/Android/sdk/build-tools/30.0.1/core-lambda-stubs.jar" />
           <option name="noStdlib" value="true" />
           <option name="noReflect" value="true" />
           <option name="moduleName" value="cache_debug" />
@@ -82,6 +82,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../../cache/build/generated/source/kapt/debug" isTestSource="false" generated="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../cache/build/generated/source/kaptKotlin/debugAndroidTest" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../cache/build/generated/source/kaptKotlin/debugUnitTest" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../cache/build/generated/source/kaptKotlin/debug" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/../../../cache/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../cache/build" />
     </content>
@@ -104,38 +105,23 @@
     <orderEntry type="module" module-name="Agromall.domain" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.3.61" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.0" level="project" />
-    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.0" level="project" />
-    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.61" level="project" />
-    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.61" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.70" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.70" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
     <orderEntry type="library" name="Gradle: javax.annotation:jsr250-api:1.0" level="project" />
     <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1" level="project" />
-    <orderEntry type="library" name="Gradle: io.reactivex.rxjava2:rxkotlin:2.4.0" level="project" />
-    <orderEntry type="library" name="Gradle: io.reactivex.rxjava2:rxjava:2.2.10" level="project" />
-    <orderEntry type="library" name="Gradle: org.reactivestreams:reactive-streams:1.0.2" level="project" />
     <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.2" level="project" />
     <orderEntry type="library" name="Gradle: androidx.room:room-common:2.2.5" level="project" />
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0" level="project" />
     <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
-    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.0.0" level="project" />
     <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0" level="project" />
     <orderEntry type="library" name="Gradle: androidx.room:room-ktx:2.2.5@aar" level="project" />
-    <orderEntry type="library" name="Gradle: androidx.room:room-rxjava2:2.2.5@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.room:room-runtime:2.2.5@aar" level="project" />
-    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: androidx.core:core:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.sqlite:sqlite-framework:2.0.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.sqlite:sqlite:2.0.1@aar" level="project" />
-    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.1@aar" level="project" />
-    <orderEntry type="library" name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: androidx.print:print:1.0.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.0.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.multidex:multidex-instrumentation:2.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.multidex:multidex:2.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12" level="project" />
@@ -199,6 +185,7 @@
     <orderEntry type="library" scope="TEST" name="Gradle: org.codehaus.mojo:animal-sniffer-annotations:1.17" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: javax.annotation:javax.annotation-api:1.3.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.room:room-migration:2.2.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.0.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.almworks.sqlite4java:sqlite4java:0.282" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.ibm.icu:icu4j:53.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.protobuf:protobuf-java:2.6.1" level="project" />
@@ -206,6 +193,16 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-testing:2.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.room:room-testing:2.2.5@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:monitor:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.print:print:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.0.0@aar" level="project" />
   </component>
 </module>

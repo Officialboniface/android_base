@@ -12,7 +12,7 @@ android {
     buildToolsVersion Config.buildToolsVersion
 
     defaultConfig {
-        applicationId "com.agromall.foodie"
+        applicationId "com.agromall.tellerium"
         javaCompileOptions {
             annotationProcessorOptions {
                 arguments += [
@@ -63,7 +63,7 @@ dependencies {
 
     implementation Libraries.kotlin
     implementation Libraries.appCompat
-    implementation Libraries.androidXExtensions
+//    implementation Libraries.androidXExtensions
     implementation Libraries.constraintLayout
     implementation Libraries.materialDesign
     implementation Libraries.androiXLegacy
@@ -72,15 +72,20 @@ dependencies {
 
     implementation Libraries.kotlin
     implementation Libraries.javaxInject
-    implementation Libraries.rxKotlin
     implementation Libraries.coreKtx
     implementation Libraries.viewModelKtx
     implementation Libraries.fragmentKtx
     implementation Libraries.lifecycleKtx
 
+    implementation Libraries.coroutineCore
+    implementation Libraries.coroutineAndroid
+    implementation Libraries.lifecycleKtx
+    implementation Libraries.viewModelKtx
+    implementation Libraries.coreKtx
+    implementation Libraries.liveDataKtx
+
 
     implementation Libraries.timber
-    implementation Libraries.rxandroid
     implementation Libraries.glide
     implementation Libraries.gson
 

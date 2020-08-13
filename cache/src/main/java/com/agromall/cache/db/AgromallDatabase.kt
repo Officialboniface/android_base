@@ -6,8 +6,8 @@ import androidx.room.Database
 import androidx.room.RoomDatabase
 import androidx.room.migration.Migration
 import androidx.sqlite.db.SupportSQLiteDatabase
-import com.agromall.cache.dao.UserEntityDao
-import com.agromall.cache.model.CachedUserEntity
+import com.agromall.cache.dao.user.UserEntityDao
+import com.agromall.cache.model.user.CachedUserEntity
 import javax.inject.Inject
 
 

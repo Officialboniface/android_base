@@ -3,13 +3,12 @@ package com.agromall.tellerium.injection.module
 import com.agromall.data.repository.user.UserRemote
 import com.agromall.remote.APIService
 import com.agromall.remote.APIServiceFactory
-import com.agromall.remote.implementation.user.UserRemoteImplementation
+import com.agromall.remote.implementation.UserRemoteImplementation
 import com.agromall.tellerium.BuildConfig
 import dagger.Binds
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
-import dagger.hilt.android.components.ActivityComponent
 import dagger.hilt.android.components.ApplicationComponent
 import javax.inject.Singleton
 

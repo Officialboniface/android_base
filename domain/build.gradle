@@ -18,8 +18,9 @@ configurations.all {
 dependencies {
     implementation Libraries.javaxAnnotation
     implementation Libraries.javaxInject
-    implementation Libraries.rxKotlin
     implementation Libraries.kotlin
+    implementation Libraries.coroutineCore
+
 
     testImplementation TestLibraries.jUnit
     testImplementation TestLibraries.mockitoKotlin

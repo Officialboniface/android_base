@@ -7,9 +7,12 @@
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/37aef65563d5b2038d75f0ad35d54c4d/jetified-timber-4.7.0/res" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/af9a381fb74112680ef4866347dd3906/jetified-timber-4.7.0/res" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/94a5375b59ccdbe52fd617654b4607de/jetified-timber-4.7.0/res" />
-      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/58c4ea9c7df3f4124d9151594ac695ed/jetified-timber-4.7.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/58c4ea9c7df3f4124d9151594ac695ed/jetified-timber-4.7.0/res" />
-      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/58c4ea9c7df3f4124d9151594ac695ed/jetified-timber-4.7.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/ffae9b6932bef823c77f040721ab0655/jetified-timber-4.7.0/res" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/04eeb69ed081155d6cea9ec414c6ab9f/jetified-timber-4.7.0/res" />
+      <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/e7f895e38be31d8b0176e6248cfe1012/jetified-timber-4.7.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/e7f895e38be31d8b0176e6248cfe1012/jetified-timber-4.7.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../tellerium/gradle/caches/transforms-2/files-2.1/e7f895e38be31d8b0176e6248cfe1012/jetified-timber-4.7.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../tellerium/gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/4.7.0/7389b09f3ff8859dde241f6a06ac3723d9574576/timber-4.7.0-javadoc.jar!/" />

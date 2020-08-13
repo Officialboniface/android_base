@@ -67,16 +67,16 @@ dependencies {
     implementation Libraries.javaxAnnotation
     implementation Libraries.kotlin
     implementation Libraries.javaxInject
-    implementation Libraries.rxKotlin
 
 
     implementation Libraries.gson
     implementation Libraries.roomRunTime
     implementation Libraries.roomExtensionAndCoroutine
-    implementation Libraries.roomRxJava
     implementation Libraries.lifecyleRuntime
     kapt Libraries.lifecycleCompiler
     kapt Libraries.roomCompiler
+    implementation Libraries.coroutineCore
+    implementation Libraries.roomExtensionAndCoroutine
 
     testImplementation TestLibraries.jUnit
     testImplementation TestLibraries.mockitoKotlin

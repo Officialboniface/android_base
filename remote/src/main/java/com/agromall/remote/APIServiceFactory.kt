@@ -1,12 +1,13 @@
 package com.agromall.remote
 
+import com.agromall.remote.util.NetworkResponseAdapterFactory
 import com.google.gson.Gson
 import com.google.gson.GsonBuilder
+import com.squareup.moshi.Moshi
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
-import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
-import retrofit2.converter.gson.GsonConverterFactory
+import retrofit2.converter.moshi.MoshiConverterFactory
 import java.util.concurrent.TimeUnit
 
 /**
@@ -24,18 +25,18 @@ object APIServiceFactory {
         val okHttpClient = makeOkHttpClient(
             makeLoggingInterceptor(isDebug)
         )
-        return makeRemoteService(okHttpClient, makeGson())
+        return makeRemoteService(makeMoshi(), okHttpClient)
     }
 
     /**
      * Creates the APIService instance
      */
-    private fun makeRemoteService(okHttpClient: OkHttpClient, gson: Gson): APIService {
+    private fun makeRemoteService(moshi: Moshi, okHttpClient: OkHttpClient): APIService {
         val retrofit = Retrofit.Builder()
             .baseUrl(BASE_URL)
             .client(okHttpClient)
-            .addCallAdapterFactory(RxJava2CallAdapterFactory.create())
-            .addConverterFactory(GsonConverterFactory.create(gson))
+            .addCallAdapterFactory(NetworkResponseAdapterFactory())
+            .addConverterFactory(MoshiConverterFactory.create(moshi))
             .build()
         return retrofit.create(APIService::class.java)
     }
@@ -56,10 +57,8 @@ object APIServiceFactory {
     /**
      * Provides a Gson instance that can also handle error json type
      */
-    private fun makeGson(): Gson {
-        return GsonBuilder()
-            .setLenient()
-            .create()
+    private fun makeMoshi(): Moshi {
+        return Moshi.Builder().build()
     }
 
     /**
