@@ -32,7 +32,7 @@ class MainActivity : BaseActivity() {
             handleGetLoggedInUser(it)
         })
         usersViewModel.loginUser(LoginUser.Params("", ""))
-//        usersViewModel.getLoggedInUser()
+        usersViewModel.getLoggedInUser()
     }
 
     /**
